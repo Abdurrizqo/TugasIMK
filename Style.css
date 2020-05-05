@@ -1,0 +1,26 @@
+body {
+	background-color: #E4E4E4;
+	font-family: arial;
+}
+
+#table_1{
+	background-color: #787a74;
+	font-family: roboto;
+	color: blue;
+}
+
+.table_2{
+	background-color: #9e79bd;
+	font-family: Tahoma;
+	color: black;
+}
+
+.table_3{
+	background-color: #f28fcb;
+	font-family: Courier New;
+	color: pink;
+}
+.konten{
+	border-top-style: solid;
+	border-top-color: grey;
+}
